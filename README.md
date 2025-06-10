@@ -159,7 +159,7 @@ joblib>=1.1.0
 
 ## Contributing
 
-This is a team project demonstrating end-to-end machine learning development. The code follows clean code practices:
+This is a team project done individually demonstrating end-to-end machine learning development. The code follows clean code practices:
 - Well-named variables and functions
 - Modular design with separate concerns
 - Comprehensive error handling
@@ -168,11 +168,6 @@ This is a team project demonstrating end-to-end machine learning development. Th
 ## License
 
 This project is created for educational purposes as part of a machine learning course assignment.
-
-## Team Members
-
-- [Your Name] - Data preprocessing and model training
-- [Partner Name] - GUI development and testing
 
 ## Screenshots
 
