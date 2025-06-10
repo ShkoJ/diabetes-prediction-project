@@ -176,12 +176,13 @@ This project is created for educational purposes as part of a machine learning c
 
 ## Screenshots
 
-*(Add screenshots of the GUI in action here)*
+Screenshot 1: https://github.com/ShkoJ/diabetes-prediction-project/blob/main/screenshot_1.png
+Screenshot 2: https://github.com/ShkoJ/diabetes-prediction-project/blob/main/screenshot_2.png
 
 ## Video Presentation
 
-*(Add link to 2-3 minute video presentation here)*
+Soon to be added!
 
 ## Report
 
-*(Add link to the 1-page dataset introduction and project report here)*
+https://github.com/ShkoJ/diabetes-prediction-project/blob/main/report.pdf
